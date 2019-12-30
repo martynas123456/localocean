@@ -1,0 +1,16 @@
+2019-12-19T05:00:15+00:00 CRITICAL Klaidos žinutė: Uncaught Error: Call to undefined function get_menu() in C:\xampp\htdocs\localocean\wp-content\themes\bootstrapstarter\index.php:9
+Stack trace:
+#0 C:\xampp\htdocs\localocean\wp-includes\template-loader.php(78): include()
+#1 C:\xampp\htdocs\localocean\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\localocean\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown (rasta faile C:\xampp\htdocs\localocean\wp-content\themes\bootstrapstarter\index.php, eilutės numeris 9)
+
+2019-12-19T05:00:44+00:00 CRITICAL Klaidos žinutė: Uncaught Error: Call to undefined function the_menu() in C:\xampp\htdocs\localocean\wp-content\themes\bootstrapstarter\index.php:9
+Stack trace:
+#0 C:\xampp\htdocs\localocean\wp-includes\template-loader.php(78): include()
+#1 C:\xampp\htdocs\localocean\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\localocean\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown (rasta faile C:\xampp\htdocs\localocean\wp-content\themes\bootstrapstarter\index.php, eilutės numeris 9)
+
